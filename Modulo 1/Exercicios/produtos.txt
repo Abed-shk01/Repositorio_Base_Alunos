@@ -1,0 +1,5 @@
+café, 36.00
+chá, 50.00
+suco, 18.50
+refrigerante, 6.90
+Aguá, 6.90

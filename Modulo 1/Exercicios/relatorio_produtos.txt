@@ -1,0 +1,21 @@
+lista de produtos
+café: R$36.00
+Preço Médio: R$ 23.66
+Produto mais caro: R$ chá R$50.00
+Produto mais caro: R$ refrigerante R$6.90
+chá: R$50.00
+Preço Médio: R$ 23.66
+Produto mais caro: R$ chá R$50.00
+Produto mais caro: R$ refrigerante R$6.90
+suco: R$18.50
+Preço Médio: R$ 23.66
+Produto mais caro: R$ chá R$50.00
+Produto mais caro: R$ refrigerante R$6.90
+refrigerante: R$6.90
+Preço Médio: R$ 23.66
+Produto mais caro: R$ chá R$50.00
+Produto mais caro: R$ refrigerante R$6.90
+Aguá: R$6.90
+Preço Médio: R$ 23.66
+Produto mais caro: R$ chá R$50.00
+Produto mais caro: R$ refrigerante R$6.90
